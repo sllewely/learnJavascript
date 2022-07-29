@@ -4,21 +4,21 @@ Teaching javascript to my friends
 ## Curriculum
 
 Course goal:
-** Javascript
-** React
-** Building an interative project
-** some understanding of HTML and CSS
-**
+- Javascript
+- React
+- Building an interative project
+- some understanding of HTML and CSS
+-
 
 ### Intro
 
 Why Javascript
 
 Other terminology to know
-** javascript != java, but it is [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
-** IDE
-** HTML and CSS
-** NodeJS, React, Typescript etc
+- javascript != java, but it is [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
+- IDE
+- HTML and CSS
+- NodeJS, React, Typescript etc
 
 Stack Overflow and googling questions
 
@@ -47,12 +47,12 @@ Extra credit: include some JS
 
 ### JS pt 2
 
-** functions
-** ** parameters
-** ** return values
-** for loops
-** equality, not equal
-** arrays
+- functions
+  - parameters
+  - return values
+- for loops
+- equality, not equal
+- arrays
 
 Git and github
 
