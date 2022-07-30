@@ -8,7 +8,7 @@ Course goal:
 - React
 - Building an interative project
 - some understanding of HTML and CSS
--
+- general software engineer skills
 
 ### Intro
 
