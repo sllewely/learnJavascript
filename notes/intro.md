@@ -28,7 +28,35 @@ We're going to learn not just javascript, but other day-to-day things you would 
 
 ## Try it out
 
-https://www.w3schools.com/js/js_intro.asp
+Check out the light bulb example on this page:
+
+[W3Schools JS Intro tutorial](https://www.w3schools.com/js/js_intro.asp)
+
+Play around with the [lightbulb example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulb).
+
+Also look at: what are html tags?  What are html attributes?  What part of it is Javascript, and how does it know to update the lightbulb image?
+
+Then update the code to replace the off lightbulb with this image of cats.  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffarm4.staticflickr.com%2F3153%2F2800697500_2c3473728d_q_d.jpg&f=1&nofb=1
+
+---
+
+Install VS Code and open a new file.
+
+Save the code from [this](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_dom) example into a new vs code file.
+
+What is happening in this example?  Try out some experiments and change things and see what happens.
+
+Now copy and paste in the button code and replace it to update some text in an element on click.
+
+**end day 1**
+
+Homework:
+
+Make a web page.
+
+----
+
+
 
 ##
 
