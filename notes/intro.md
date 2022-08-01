@@ -58,7 +58,7 @@ Make a web page.
 
 
 
-##
+## Day 2
 
 Other terminology to know
 
